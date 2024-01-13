@@ -1,0 +1,6 @@
+@article{REPO088,
+    author = "Wang, Yinuo and Chen, Kai and Yuan, Weimin and Meng, Cai and Bai, XiangZhi",
+    journal = "arXiv preprint arXiv:2311.08190",
+    title = "{SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation}",
+    year = "2023"
+}
